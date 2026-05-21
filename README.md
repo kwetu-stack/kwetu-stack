@@ -177,8 +177,17 @@ Kwetu Partners is being built publicly as a long-term operational systems initia
 
 If you’d like to support the mission, open-source work, and operational transformation research:
 
-☕ Buy Me a Coffee:
-https://buymeacoffee.com/kwetupartners.net
+🏦 Support the Mission
+Kwetu Partners Ltd
+Equity Bank Kenya
+Account Number: 0460284033660
+
+Support helps fund:
+• operational systems research
+• SME workflow transformation
+• public engineering demos
+• software infrastructure
+• open operational tooling for African SMEs
 
 🌍 Website:
 https://kwetupartners.net/
