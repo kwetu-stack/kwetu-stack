@@ -7,44 +7,49 @@ Founder of Kwetu Partners Ltd.
 ---
 
 ## What I Build
+## Mission
 
-I design and build operational systems using:
+Kwetu Partners is a Kenyan operational systems initiative focused on helping African SMEs and institutions reduce operational waste, improve efficiency, and transition sustainably into digital operations.
 
-- Python
-- Flask
-- SQLite
-- PostgreSQL
-- HTML / CSS / JavaScript
+Our work combines:
 
-Focused on:
+- Operational systems thinking
+- Kaizen principles
+- Monozukuri craftsmanship
+- Workflow simplification
+- Process discipline
+- Practical operational software
 
-- Inventory Management
-- Logistics & Dispatch
-- Visitor & Reception Systems
-- Construction Management
-- Identity & Access Systems
-- Education Technology
+We believe African businesses do not simply need “more software.”
 
----
+They need:
+- clearer workflows,
+- better operational visibility,
+- standardized processes,
+- reduced inefficiencies,
+- and systems designed around real operational environments.
 
-## Engineering Philosophy
 
-Kwetu follows a Monozukuri-inspired engineering philosophy:
+## Operational Philosophy
 
-- Build slowly
-- Build deliberately
-- Build operationally
-- Build systems that survive real environments
+Kwetu follows a Monozukuri-inspired operational philosophy centered on:
 
-I prioritize:
+- craftsmanship,
+- continuous improvement,
+- operational clarity,
+- workflow discipline,
+- and sustainable long-term systems thinking.
 
-- Reliability
-- Operational clarity
-- Simplicity
-- Maintainability
-- Real business usefulness over hype
+We are especially interested in how African SMEs and institutions can reduce hidden operational waste through:
+- process standardization,
+- operational visibility,
+- structured workflows,
+- accountability systems,
+- and practical digitization.
 
----
+The goal is not technology for hype.
+
+The goal is operational transformation.
 
 ## Featured Systems
 
@@ -130,27 +135,36 @@ Some public engineering demos available on my GitHub:
 
 ---
 
-## Why I Build
 
-Many SMEs still operate with:
+## Why Kwetu Exists
 
-- paper workflows
-- fragmented processes
-- spreadsheet dependency
-- manual tracking systems
+Many African SMEs and institutions still operate with:
+- fragmented workflows,
+- paper-based processes,
+- delayed reporting,
+- invisible inefficiencies,
+- operational inconsistencies,
+- and limited visibility across operations.
 
-I build software to simplify operations and improve operational visibility using lightweight, maintainable systems.
+Over time, these inefficiencies quietly increase operational costs and reduce productivity.
 
----
+Kwetu Partners was created from the belief that African enterprises deserve practical operational systems designed around their real environments and constraints.
+
+Our mission is to help organizations:
+- reduce operational waste,
+- improve accountability,
+- simplify workflows,
+- strengthen operational discipline,
+- and transition sustainably into digital operations.
+
 
 ## Built in Kenya 🇰🇪
 
-Designed and engineered by Kwetu Partners Ltd.
+Kwetu Partners is built from real operational experience across distribution, logistics, retail operations, and business workflows in Kenya.
 
-Focused on solving practical operational challenges across emerging markets.
+We are building publicly while exploring how operational systems thinking, Kaizen principles, and practical software can help African SMEs and institutions operate more efficiently.
 
-Website:
-https://kwetupartners.net/
+This is an ongoing long-term mission focused on sustainable operational transformation across emerging markets.
 
 ---
 
