@@ -170,3 +170,18 @@ This is an ongoing long-term mission focused on sustainable operational transfor
 
 - GitHub: https://github.com/kwetu-stack
 - Website: https://kwetupartners.net/
+
+- Support The Mission
+
+Kwetu Partners is being built publicly as a long-term operational systems initiative focused on helping African SMEs and institutions improve efficiency, reduce operational waste, and transition sustainably into digital operations.
+
+If you’d like to support the mission, open-source work, and operational transformation research:
+
+☕ Buy Me a Coffee:
+https://buymeacoffee.com/kwetupartners.net
+
+🌍 Website:
+https://kwetupartners.net/
+
+💻 GitHub:
+https://github.com/kwetu-stack
