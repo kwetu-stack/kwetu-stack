@@ -5,8 +5,6 @@ Operational systems engineer focused on building practical business software for
 Founder of Kwetu Partners Ltd.
 
 ---
-
-## What I Build
 ## Mission
 
 Kwetu Partners is a Kenyan operational systems initiative focused on helping African SMEs and institutions reduce operational waste, improve efficiency, and transition sustainably into digital operations.
